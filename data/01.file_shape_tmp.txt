@@ -1,0 +1,110 @@
+c0.1  control.6..
+c0.2  control.9..
+c0.3  control.1..
+s14.1 saline14.39..
+s14.2 saline14.40..
+s14.3 saline14.43..
+s3.1  saline3.9..
+s3.2  saline3.11..
+s3.3  saline3.17..
+d14.1 toxin14.4..
+d14.2 toxin14.22..
+d14.3 toxin14.27..
+r21.1 toxin21.11..
+r21.2 toxin21.34..
+r21.3 toxin21.30..
+r28.1 toxin28.46..
+r28.2 toxin28.51..
+r28.3 toxin28.52..
+
+c0.1.Rdata (60, 122, 1383)
+c0.2.Rdata (77, 147, 1383)
+c0.3.Rdata (55, 105, 1383)
+control.1..LEFT.Rdata (55, 105)
+control.1..RIGHT.Rdata (55, 105)
+control.6..LEFT.Rdata (60, 122)
+control.6..RIGHT.Rdata (60, 122)
+control.9..LEFT.Rdata (77, 147)
+control.9..RIGHT.Rdata (77, 147)
+
+s14.1.Rdata (79, 164, 1383)
+s14.2.Rdata (68, 108, 1383)
+s14.3.Rdata (68, 109, 1383)
+saline14.39..LEFT.Rdata (79, 164)
+saline14.39..RIGHT.Rdata (79, 164)
+saline14.40..LEFT.Rdata (68, 108)
+saline14.40..RIGHT.Rdata (68, 108)
+saline14.43..LEFT.Rdata (68, 109)
+saline14.43..RIGHT.Rdata (68, 109)
+
+s3.1.Rdata (75, 137, 1383)
+s3.2.Rdata (54, 110, 1383)
+s3.3.Rdata (76, 158, 1383)
+saline3.11..LEFT.Rdata (54, 110)
+saline3.11..RIGHT.Rdata (54, 110)
+saline3.17..LEFT.Rdata (76, 158)
+saline3.17..RIGHT.Rdata (76, 158)
+saline3.9..LEFT.Rdata (75, 137)
+saline3.9..RIGHT.Rdata (75, 137)
+
+d14.1.Rdata (67, 171, 1383)
+d14.2.Rdata (80, 200, 1383)
+d14.3.Rdata (81, 121, 1383)
+toxin14.22..LEFT.Rdata (80, 200)
+toxin14.22..RIGHT.Rdata (80, 200)
+toxin14.27..LEFT.Rdata (81, 121)
+toxin14.27..RIGHT.Rdata (81, 121)
+toxin14.4..LEFT.Rdata (67, 171)
+toxin14.4..RIGHT.Rdata (67, 171)
+
+r21.1.Rdata (85, 139, 1383)
+r21.2.Rdata (58, 100, 1383)
+r21.3.Rdata (65, 117, 1383)
+toxin21.11..LEFT.Rdata (85, 139)
+toxin21.11..RIGHT.Rdata (85, 139)
+toxin21.30..LEFT.Rdata (65, 117)
+toxin21.30..RIGHT.Rdata (65, 117)
+toxin21.34..LEFT.Rdata (58, 100)
+toxin21.34..RIGHT.Rdata (58, 100)
+
+r28.1.Rdata (81, 147, 1383)
+r28.2.Rdata (78, 155, 1383)
+r28.3.Rdata (73, 161, 1383)
+toxin28.46..LEFT.Rdata (81, 147)
+toxin28.46..RIGHT.Rdata (81, 147)
+toxin28.51..LEFT.Rdata (78, 155)
+toxin28.51..RIGHT.Rdata (78, 155)
+toxin28.52..LEFT.Rdata (73, 161)
+toxin28.52..RIGHT.Rdata (73, 161)
+
+
+toxin21.11..ALL.no.lesion.Rdata (85, 139)
+toxin21.11..ALL.Rdata (85, 139)
+toxin14.22..Defect.ONLY.Rdata (80, 200)
+toxin.right14.Rdata (2921, 490)
+toxin.right21.Rdata (3569, 490)
+toxin.right28.Rdata (5077, 490)
+saline.right14.Rdata (3229, 490)
+saline.right3.Rdata (3161, 490)
+xc0.1.Rdata (60, 122)
+xc0.2.Rdata (77, 147)
+xc0.3.Rdata (55, 105)
+xd14.1.Rdata (67, 171)
+xd14.2.Rdata (80, 200)
+xd14.3.Rdata (81, 121)
+xr21.1.Rdata (85, 139)
+xr21.2.Rdata (58, 100)
+xr21.3.Rdata (65, 117)
+xr28.1.Rdata (81, 147)
+xr28.2.Rdata (78, 155)
+xr28.3.Rdata (73, 161)
+xs14.1.Rdata (79, 164)
+xs14.2.Rdata (68, 108)
+xs14.3.Rdata (68, 109)
+xs3.1.Rdata (75, 137)
+xs3.2.Rdata (54, 110)
+xs3.3.Rdata (76, 158)
+normal.left.Rdata (21658, 490)
+normal.Rdata (21658, 1022)
+fig2.Rdata (490, 8)
+fig.Rdata (490, 8)
